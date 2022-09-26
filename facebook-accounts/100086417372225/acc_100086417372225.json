@@ -34,7 +34,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1664813903,
+			"expirationDate": 1664822254,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -86,7 +86,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671993236.070556,
+			"expirationDate": 1671994555.323649,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -95,7 +95,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0yQCcApIhIhCauAGX.AWXsutBe8VBtm88jtZ8VbJqdDpM.BjMfCY.nP.AAA.0.0.BjMfCY.AWWp2gumqLo"
+			"value": "0yQCcApIhIhCauAGX.AWViFGX4DeVkAgwwC7rCKZVH_S8.BjMfCY.nP.AAA.0.0.BjMfW_.AWUVBZYFKhs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -107,9 +107,13 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664217371911%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664218563294%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.09.2022 18:37 2",
-	"code2fa": "SXO4F53GECBQ3AKXSZON73HBVLUX4RSQ"
+	"lastEventDate": "26.09.2022 18:59 auto fill teste 2",
+	"code2fa": "SXO4F53GECBQ3AKXSZON73HBVLUX4RSQ",
+	"screenname": "Clara Silva",
+	"birthdate": "2004 February 4",
+	"country": "",
+	"isAvatarExists": false
 }
