@@ -8,11 +8,11 @@
 	"screenname": "Aline Castro",
 	"birthdate": "1997 January 16",
 	"country": "",
-	"isAvatarExists": false,
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1664821922,
+			"expirationDate": 1664823484,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695753106.03606,
+			"expirationDate": 1695824330.064026,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695753106.036067,
+			"expirationDate": 1695824330.064169,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "8%3AWMR0z6ZAFTEdRg%3A2%3A1664217117%3A-1%3A-1"
+			"value": "8%3AWMR0z6ZAFTEdRg%3A2%3A1664217117%3A-1%3A-1%3A%3AAcVEgMhPw4CtzkthNw35AWOPFLRMt_DFdkFSJ7X8UA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671993549.112831,
+			"expirationDate": 1672064380.727934,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "04n8xAj3l8glZbiNJ.AWXmiPlhJWypH6dTcYSOUG4k0as.BjMe_d.kw.AAA.0.0.BjMfHQ.AWWFoJxw8rA"
+			"value": "05F0NmsyZXYaduyTV.AWUS4VEY-9uB2ymp1ZQ8teNYSDA.BjMwZO.kw.AAA.0.0.BjMwaB.AWUy8kvG4uA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,9 +111,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664217653322%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664288388562%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.09.2022 18:58 Teste 2",
+	"lastEventDate": "27.09.2022 14:22 Farm 2 dia ",
 	"code2fa": "CS2X75R365NWNSZC3YW5O65Z6VMF3FI5"
 }
