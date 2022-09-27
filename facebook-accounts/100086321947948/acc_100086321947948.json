@@ -8,7 +8,7 @@
 	"screenname": "Beatriz Barros",
 	"birthdate": "1998 September 17",
 	"country": "",
-	"isAvatarExists": false,
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -38,19 +38,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1664840692,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "929x896"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1664840687.973745,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -64,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695771873.973886,
+			"expirationDate": 1695826031.919543,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +64,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695771873.973932,
+			"expirationDate": 1664843264,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0x0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1695826031.919579,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "43%3AINnlW09Arj9D8Q%3A2%3A1664235888%3A-1%3A-1"
+			"value": "43%3AINnlW09Arj9D8Q%3A2%3A1664235888%3A-1%3A-1%3A%3AAcXiYc5rQc7w2tfQVpQFeS9RZ24ZLwhi1Dp3PXG0hA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672012420.532682,
+			"expirationDate": 1672066379.149967,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0hiJZfnw4znIn3WUN.AWWFPKsFkdwROqPS5MhtBV4zPX0.BjMjkz.24.AAA.0.0.BjMjuI.AWXffHk4mvQ"
+			"value": "0JxhfUOozOqSKMCxK.AWVkJdDiHC4vWCwcATYN9tYRAaY.BjMwz0.24.AAA.0.0.BjMw5P.AWW4us51fUw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,9 +111,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664236549287%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664290493310%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.09.2022 00:38 Script teste vai da boa",
+	"lastEventDate": "27.09.2022 14:55 Farm 2 dia ",
 	"code2fa": "KG24CNRPZ754NURWSYXHLWU5ALFGBNP6"
 }
