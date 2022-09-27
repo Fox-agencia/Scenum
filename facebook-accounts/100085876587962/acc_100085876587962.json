@@ -8,7 +8,7 @@
 	"screenname": "Alice Ribeiro",
 	"birthdate": "1977 July 13",
 	"country": "",
-	"isAvatarExists": false,
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -22,19 +22,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "aToyYzhE9bjzr7TYorI-6XwG"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1664840993,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x937"
 		},
 		{
 			"domain": ".facebook.com",
@@ -64,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695772179.996537,
+			"expirationDate": 1695832655.673931,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +64,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695772179.996575,
+			"expirationDate": 1664844495,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0x0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1695832655.674036,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "28%3AV4ko_i0MIMM3Bw%3A2%3A1664236193%3A-1%3A-1"
+			"value": "28%3AV4ko_i0MIMM3Bw%3A2%3A1664236193%3A-1%3A-1%3A%3AAcWU-X5rrdkN6IYYGyxkli7xtuNkFy2lDDmNjzkQVQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672012751.878467,
+			"expirationDate": 1672072830.736439,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0mSKyMA4HEGlabHRQ.AWVb3pJFxxKMMDDhCf2nkoIYN6Q.BjMjpp.WD.AAA.0.0.BjMjzT.AWVUBX_Y_pk"
+			"value": "0CmuqQZczZqHl6uqF.AWVr5vqqH-0qAPbWVdiLE7BLANg.BjMybQ.WD.AAA.0.0.BjMyd_.AWWxBv8tFO8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,9 +111,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664236758747%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664296941348%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.09.2022 00:53 Script teste vai da boa",
+	"lastEventDate": "27.09.2022 16:42 Farm 2 dia ",
 	"code2fa": "FHWPVEGRM4N3B37TELUKNOB5JBCFP4EE"
 }
