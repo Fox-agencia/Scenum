@@ -60,7 +60,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695822343.950828,
+			"expirationDate": 1695914359.390538,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -73,7 +73,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695822343.950892,
+			"expirationDate": 1695914359.390642,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -82,11 +82,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "34%3AX8gEp15yQGajEA%3A2%3A1664131444%3A-1%3A-1%3A%3AAcUdVKBcCtCQ6kj4-nhSxvR-VJlZTDY6bSpr74SDtQ"
+			"value": "34%3AX8gEp15yQGajEA%3A2%3A1664131444%3A-1%3A-1%3A%3AAcWqAi75_6wD1OYz43T4UAmPiSzaXZg3vabwpa7d2w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672062440.867388,
+			"expirationDate": 1672154485.698856,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -95,7 +95,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "00eMnemqfr77IPfI2.AWU3-MTEa8gJ2NMmG6kC2Th1eTE.BjMv6M.nP.AAA.0.0.BjMv7t.AWVREFlOs6c"
+			"value": "08JwWfmwBTw7RUuHl.AWWEWKDUby_1g2o-D7GrhOWpPZY.BjNGX5.nP.AAA.0.0.BjNGZ3.AWWehCukr00"
 		},
 		{
 			"domain": ".facebook.com",
@@ -107,10 +107,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664286550326%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664378617869%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.09.2022 18:33 cookies",
+	"lastEventDate": "28.09.2022 15:23 Script dia 04",
 	"code2fa": "SXO4F53GECBQ3AKXSZON73HBVLUX4RSQ",
 	"screenname": "Clara Silva",
 	"birthdate": "2004 February 4",
