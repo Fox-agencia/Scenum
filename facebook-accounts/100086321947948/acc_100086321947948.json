@@ -7,7 +7,7 @@
 	"name": "",
 	"screenname": "Beatriz Barros",
 	"birthdate": "1998 September 17",
-	"country": "",
+	"country": "Tubarão",
 	"isAvatarExists": true,
 	"cookie": [
 		{
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695878148.305904,
+			"expirationDate": 1696005565.668886,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1664843264,
+			"expirationDate": 1664986252,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -73,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0x0"
+			"value": "1920x937"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695878148.305961,
+			"expirationDate": 1696005565.669016,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "43%3AINnlW09Arj9D8Q%3A2%3A1664235888%3A-1%3A-1%3A%3AAcXzGR3fogbqdSEY0FusVi5TKJuqQ4EKS3c7bmkONQ"
+			"value": "43%3AINnlW09Arj9D8Q%3A2%3A1664235888%3A-1%3A-1%3A%3AAcUs6otEtC0L_cWwbbT6t5NNEImCXJ-jGhynvkkL8A"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672118221.768352,
+			"expirationDate": 1672245581.741176,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0jE1QW6J091OJ2NLS.AWWY5UGUIj2E-g7S_X-wSQe53jQ.BjM9iG.24.AAA.0.0.BjM9jP.AWWnUFuASX8"
+			"value": "0M5Coe7HWuoHOTIm2.AWV1jC0nS45jsPVc7tEU0HZGMS0.BjNco-.24.AAA.0.0.BjNcpO.AWXHAokVAcM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,9 +111,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664342317307%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664469663272%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.09.2022 05:35 Script dia 04",
+	"lastEventDate": "29.09.2022 16:41 4 dia-5",
 	"code2fa": "KG24CNRPZ754NURWSYXHLWU5ALFGBNP6"
 }
