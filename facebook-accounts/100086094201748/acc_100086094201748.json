@@ -25,6 +25,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1664999068,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1034x584"
+		},
+		{
+			"domain": ".facebook.com",
 			"expirationDate": 1698954177.081291,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -51,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1696019822.387625,
+			"expirationDate": 1695930255.244199,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1665088172,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x625"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1696019822.38777,
+			"expirationDate": 1695930255.244216,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "19%3AtRJ47N3U8K_j6Q%3A2%3A1664394264%3A-1%3A-1%3A%3AAcU1q16aPgCRu8AIXM6EKNhDi3A7fbUUQIeD8c3Dow"
+			"value": "19%3AtRJ47N3U8K_j6Q%3A2%3A1664394264%3A-1%3A-1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672259821.387858,
+			"expirationDate": 1672170841.501033,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ihZ9W7NPUVwMbqyA.AWW7WvsjkVgWtgZ5tjZZz3-PSLE.BjNgHs.JI.AAA.0.0.BjNgHs.AWXLLZBRtas"
+			"value": "06H3QNQlHm1IJ08EH.AWWu5fg9SmZ9T1hvimcmZ3ZsuHM.BjNKPA.JI.AAA.0.0.BjNKZa.AWXprCD_qSc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,9 +111,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664484167052%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664394955013%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.09.2022 20:42 tessste",
+	"lastEventDate": "30.09.2022 16:08 Script Iprox",
 	"code2fa": "GAHDCI6QA5NZ4ONX7MTOLDGVSVEJ73YF"
 }
