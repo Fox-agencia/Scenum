@@ -5,10 +5,6 @@
 	"status": 2,
 	"id": "100086094201748",
 	"name": "",
-	"screenname": "Morgana Barth",
-	"birthdate": "1990 September 9",
-	"country": "",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -22,19 +18,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "wKM0Y8_2JNgBTVQOL6qLSwnL"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1664999068,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1034x584"
 		},
 		{
 			"domain": ".facebook.com",
@@ -64,7 +47,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695930255.244199,
+			"expirationDate": 1696091423.250849,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +60,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695930255.244216,
+			"expirationDate": 1665088172,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x625"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1696091423.250963,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +82,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "19%3AtRJ47N3U8K_j6Q%3A2%3A1664394264%3A-1%3A-1"
+			"value": "19%3AtRJ47N3U8K_j6Q%3A2%3A1664394264%3A-1%3A-1%3A%3AAcUXMY_2ywT5fIk8WWglxNubCs-IlejIivUZWbW5bQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672170841.501033,
+			"expirationDate": 1672331432.678483,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +95,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "06H3QNQlHm1IJ08EH.AWWu5fg9SmZ9T1hvimcmZ3ZsuHM.BjNKPA.JI.AAA.0.0.BjNKZa.AWXprCD_qSc"
+			"value": "0YXZYpZvJ28SFzQ0x.AWVqk-OrBoGawYpKm9M5DIW6gJs.BjNxmb.JI.AAA.0.0.BjNxmk.AWWFoQBpgPA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,9 +107,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664394955013%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664555820532%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.09.2022 16:28 Script Iprox",
+	"lastEventDate": "30.09.2022 16:38 Script Iprox",
 	"code2fa": "GAHDCI6QA5NZ4ONX7MTOLDGVSVEJ73YF"
 }
