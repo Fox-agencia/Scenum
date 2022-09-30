@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672357132.268691,
+			"expirationDate": 1672357306.641323,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VBlXLW0si5ZXxz9A.AWV6Chu-kGr1pfsi1_2mIUMM8HM.BjN3zD.7y.AAA.0.0.BjN34M.AWU8mRq2Me0"
+			"value": "0VBlXLW0si5ZXxz9A.AWWDaM-z2c6M-g7pTt84c0D5xl4.BjN3zD.7y.AAA.0.0.BjN367.AWV6D_OGfA4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,8 +111,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664581279211%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664581438217%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.09.2022 23:41 Farm b"
+	"lastEventDate": "30.09.2022 23:44 Farm b"
 }
