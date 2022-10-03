@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672589071.275269,
+			"expirationDate": 1672589355.119387,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OueIgxKWODQMcfVJ.AWXKwpzdvYU8Oi9Lj9AY2KNkcWU.BjOwbj.88.AAA.0.0.BjOwgL.AWV6oacZzOg"
+			"value": "0OueIgxKWODQMcfVJ.AWXrQd3gthHR45U8klE2X0tSUyU.BjOwbj.88.AAA.0.0.BjOwkr.AWUF8sJNciY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,8 +111,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664813212870%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1664813483984%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "03.10.2022 16:09 Script teste vai da boa"
+	"lastEventDate": "03.10.2022 16:11 Script teste vai da boa"
 }
